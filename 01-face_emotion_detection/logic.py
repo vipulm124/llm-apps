@@ -43,5 +43,4 @@ async def get_emotions_from_image_async(encoded_string: str):
     )
     # Run the blocking sample() call in a thread to avoid blocking the event loop
     response = await asyncio.to_thread(chat.sample)
-    print(f"Response from Grok: {response}")
     return response
