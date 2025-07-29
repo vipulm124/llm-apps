@@ -57,12 +57,5 @@ Screenshots of the application in action can be found in the `screenshots/` dire
 
 ## License
 
-[MIT License](../LICENSE) (if applicable)
+[MIT License]
 
-## Authors
-
-- [Your Name]
-
----
-
-Feel free to update this README with more specific details about usage, configuration,

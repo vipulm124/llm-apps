@@ -48,4 +48,4 @@ Sample images are available in the `sample_images/` folder for quick testing.
 
 ## License
 
-This project is for educational purposes.
+[MIT License]
