@@ -14,7 +14,7 @@ A Python application for detecting emotions from facial images using the Grok-4 
 
 A Python tool to analyze shopping carts using LLM processing and Selenium automation, with a user interface and screenshot capture.
 
-- [Cart Analyzer](02-cart%20analyzer/README.md)
+- [Cart Analyzer](02-Cart%20Analyzer/README.md)
 
 ## Disclaimer
 
